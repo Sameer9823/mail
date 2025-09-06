@@ -155,3 +155,5 @@
 - Uses **mock data** now, can integrate with **real AI/email services**
 - User-friendly UI for **metrics, insights, analytics, and recommendations**
 
+## Video Link :- https://www.veed.io/view/e1139731-b7e3-4972-9d20-ee247aa0dcc4?panel=share
+

@@ -1,0 +1,90 @@
+{
+  message: '⚠️ GEMINI_API_KEY not found, AI services will be limited',
+  level: 'warn',
+  service: 'ai-communication-assistant',
+  timestamp: '2025-09-06 00:04:21'
+}
+{
+  message: '🚀 Server running on port 5000',
+  level: 'info',
+  service: 'ai-communication-assistant',
+  timestamp: '2025-09-06 00:04:22'
+}
+{
+  message: '📱 Environment: development',
+  level: 'info',
+  service: 'ai-communication-assistant',
+  timestamp: '2025-09-06 00:04:22'
+}
+{
+  message: '🌐 API URL: http://localhost:5000/api',
+  level: 'info',
+  service: 'ai-communication-assistant',
+  timestamp: '2025-09-06 00:04:22'
+}
+{
+  message: '❤️ Health Check: http://localhost:5000/health',
+  level: 'info',
+  service: 'ai-communication-assistant',
+  timestamp: '2025-09-06 00:04:22'
+}
+{
+  message: '⚠️ GEMINI_API_KEY not found, AI services will be limited',
+  level: 'warn',
+  service: 'ai-communication-assistant',
+  timestamp: '2025-09-06 00:06:51'
+}
+{
+  message: '🚀 Server running on port 5000',
+  level: 'info',
+  service: 'ai-communication-assistant',
+  timestamp: '2025-09-06 00:06:53'
+}
+{
+  message: '📱 Environment: development',
+  level: 'info',
+  service: 'ai-communication-assistant',
+  timestamp: '2025-09-06 00:06:53'
+}
+{
+  message: '🌐 API URL: http://localhost:5000/api',
+  level: 'info',
+  service: 'ai-communication-assistant',
+  timestamp: '2025-09-06 00:06:53'
+}
+{
+  message: '❤️ Health Check: http://localhost:5000/health',
+  level: 'info',
+  service: 'ai-communication-assistant',
+  timestamp: '2025-09-06 00:06:53'
+}
+{
+  message: '⚠️ GEMINI_API_KEY not found, AI services will be limited',
+  level: 'warn',
+  service: 'ai-communication-assistant',
+  timestamp: '2025-09-06 00:09:43'
+}
+{
+  message: '🚀 Server running on port 5000',
+  level: 'info',
+  service: 'ai-communication-assistant',
+  timestamp: '2025-09-06 00:09:47'
+}
+{
+  message: '📱 Environment: development',
+  level: 'info',
+  service: 'ai-communication-assistant',
+  timestamp: '2025-09-06 00:09:47'
+}
+{
+  message: '🌐 API URL: http://localhost:5000/api',
+  level: 'info',
+  service: 'ai-communication-assistant',
+  timestamp: '2025-09-06 00:09:47'
+}
+{
+  message: '❤️ Health Check: http://localhost:5000/health',
+  level: 'info',
+  service: 'ai-communication-assistant',
+  timestamp: '2025-09-06 00:09:47'
+}

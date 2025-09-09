@@ -26,7 +26,6 @@ class Database {
       await mongoose.connect(mongoUri, options)
       this.connection = mongoose.connection
 
-      // Successful connection
       this.connection.on("connected", () => {
         logger.info("✅ MongoDB connected successfully")
         logger.info(`📊 Database: ${this.connection.name}`)
